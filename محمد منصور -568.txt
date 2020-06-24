@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/48910837/r-layout-main-cannot-be-found-cannot-resolve-symbol-r
+
+
+https://windowsreport.com/android-emulator-error-installing-apk/ has 7 solves.
+
+
+https://developer.android.com/reference/java/lang/NullPointerException
